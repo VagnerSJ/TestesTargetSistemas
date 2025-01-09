@@ -1,0 +1,14 @@
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\bin\Debug\net8.0\TesteTargetSistemas.exe
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\bin\Debug\net8.0\TesteTargetSistemas.deps.json
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\bin\Debug\net8.0\TesteTargetSistemas.runtimeconfig.json
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\bin\Debug\net8.0\TesteTargetSistemas.dll
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\bin\Debug\net8.0\TesteTargetSistemas.pdb
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.AssemblyInfoInputs.cache
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.AssemblyInfo.cs
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.dll
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\refint\TesteTargetSistemas.dll
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.pdb
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.genruntimeconfig.cache
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\ref\TesteTargetSistemas.dll
