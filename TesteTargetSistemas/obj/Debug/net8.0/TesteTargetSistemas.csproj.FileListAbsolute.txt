@@ -12,3 +12,4 @@ C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\ne
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.pdb
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.genruntimeconfig.cache
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\ref\TesteTargetSistemas.dll
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.sourcelink.json

@@ -11,10 +11,23 @@
         {
             Console.WriteLine("Resultados dos testes:\n");
 
+            System.Console.WriteLine("Teste 1: ");
             Teste1();
+            System.Console.WriteLine("\n");
+
+            System.Console.WriteLine("Teste 2: ");
             Teste2();
+            System.Console.WriteLine("\n");
+
+            System.Console.WriteLine("Teste 3: ");
             Teste3();
+            System.Console.WriteLine("\n");
+
+            System.Console.WriteLine("Teste 4: ");
             Teste4();
+            System.Console.WriteLine("\n");
+
+            System.Console.WriteLine("Teste 5: ");
             Teste5();
         }
 
@@ -39,7 +52,26 @@
 
         private static void Teste2()
         {
-            
+            int num = 34;
+            int fib1 = 0;
+            int fib2 = 1;
+            int fibMaior = 0;
+
+            while (fib2 < num)
+            {
+                fibMaior = fib1 + fib2;
+                fib1 = fib2;
+                fib2 = fibMaior;
+            }
+
+            if (fibMaior == num)
+            {
+                System.Console.WriteLine("O número pertence a sequência.");
+            }
+            else
+            {
+                System.Console.WriteLine("O número não pertence a sequência.");
+            }
         }
 
         private static void Teste3()
@@ -95,12 +127,25 @@
 
             decimal Total = SP + RJ + MG + ES + Outros;
 
-
+            System.Console.WriteLine("SP: " + Math.Round((SP * 100) / Total, 2));
+            System.Console.WriteLine("RJ: " + Math.Round((RJ * 100) / Total, 2));
+            System.Console.WriteLine("MG: " + Math.Round((MG * 100) / Total, 2));
+            System.Console.WriteLine("ES: " + Math.Round((ES * 100) / Total, 2));
+            System.Console.WriteLine("Outros: " + Math.Round((Outros * 100) / Total, 2));
         }
 
         private static void Teste5()
         {
+            string stringOriginal = "target";
+            string stringInvertida = string.Empty;
 
+            for (int indice = stringOriginal.Length - 1; indice > -1; indice --)
+            {
+                stringInvertida = stringInvertida + stringOriginal[indice];
+            }
+
+            System.Console.WriteLine("String original: " + stringOriginal);
+            System.Console.WriteLine("String invertida: " + stringInvertida);
         }
     }
 }
