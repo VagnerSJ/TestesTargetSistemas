@@ -7,9 +7,9 @@ C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\ne
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.AssemblyInfoInputs.cache
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.AssemblyInfo.cs
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.sourcelink.json
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.dll
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\refint\TesteTargetSistemas.dll
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.pdb
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.genruntimeconfig.cache
 C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\ref\TesteTargetSistemas.dll
-C:\Users\sjkaz\source\repos\TesteTargetSistemas\TesteTargetSistemas\obj\Debug\net8.0\TesteTargetSistemas.sourcelink.json
