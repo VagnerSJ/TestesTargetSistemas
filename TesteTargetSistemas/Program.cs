@@ -32,6 +32,8 @@ namespace Testes
 
             System.Console.WriteLine("Teste 5: ");
             Teste5();
+
+            Console.ReadKey();
         }
 
         private static void Teste1 () 
